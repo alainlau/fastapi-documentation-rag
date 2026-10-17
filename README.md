@@ -28,7 +28,7 @@ The assistant answers questions about FastAPI using a selected collection of off
 
 ```bash
 git clone https://github.com/alainlau/fastapi-documentation-rag.git
-cd fastapi-rag
+cd fastapi-documentation-rag
 ```
 
 ### 2. Install dependencies
